@@ -12,7 +12,7 @@
 3. Скачиваем проект из перозитория
 
    ```
-   git clone https://github.com/Gorbunov-it/Electrician.git
+   git clone https://github.com/Gorbunov-it/installOfPlasticWindows.git
 
    ```
    
