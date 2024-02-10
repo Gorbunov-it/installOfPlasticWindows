@@ -1,0 +1,30 @@
+{
+  "name": "installofplasticwindows",
+  "version": "1.0.0",
+  "description": "Дипломный проект от курса GLO Academy.\r Проект выполнил: Иван Горбунов",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "watch": "webpack --watch --mode=development",
+    "start": "webpack serve --mode=development --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gorbunov-it/installOfPlasticWindows.git"
+  },
+  "author": "Ivan Gorbunov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gorbunov-it/installOfPlasticWindows/issues"
+  },
+  "homepage": "https://github.com/Gorbunov-it/installOfPlasticWindows#readme",
+  "keywords": [],
+  "devDependencies": {
+    "webpack": "^5.90.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  },
+  "dependencies": {
+    "swiper": "^11.0.6"
+  }
+}
